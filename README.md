@@ -378,6 +378,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <h2 id="H">H</h2>   
 
 <ol>
+<li><a href="https://www.healu360.com">HealU</a></li>
 <li><a href="https://www.hackerearth.com/careers/">Hackerearth</a></li>
 <li><a href="https://www.hackerrank.com/careers/">HackerRank</a>  </li>
 <li><a href="https://hashedin.com/careers/">Hashedin</a></li>
@@ -625,6 +626,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <h2 id="S">S</h2>  
 
 <ol>
+<li><a href="https://www.thesanjay.com">Sanjay Dhamecha</a></li>
 <li><a href="https://www.jiosaavn.com/corporate/jobs">Saavan</a>  </li>
 <li><a href="https://www.sabre.com/careers/">Sabre corporation</a>  </li>
 <li><a href="https://www.salarybox.in/careers">SalaryBox</a></li>
@@ -686,6 +688,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://turvo.com/careers/">Turvo</a></li>
 <li><a href="https://www.twilio.com/company/jobs">Twilio</a>  </li>
 <li><a href="https://careers.twitter.com/">Twitter</a></li>
+<li><a href="https://www.thesanjay.com">Sanjay Dhamecha</a></li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -799,6 +802,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <h2 id="feedback">Feedback</h2>
 <p>If you have any feedback or suggestions please reach out to maintainers.</p>
 <ul>
-<li><a href="https://www.linkedin.com/in/thesanjay008">Sanjay Dhamecha</a></li>
+<li><a href="https://www.linkedin.com/in/thesanjay008" title="Sanjay Dhamecha's Linkedin profile">Sanjay Dhamecha</a></li>
 </ul>
 <div id="Bottom"></div>
