@@ -1,16 +1,23 @@
 <div id="top"></div>
 
 <div align="center"> <h1>Top Company & Startup Websites to Job Opportunities</h1>  
-	This Repository contains the list of companies(more than FAANG) which you can join!  
-		
-	<p><br></p>
+This Repository contains the list of companies(more than FAANG) which you can join!  
+    
+<p><br></p>  
+    
 
-	<p><a href="https://twitter.com/intent/tweet?text="><img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social" alt="Tweet" ></a>
-	<a href="https://github.com/thesanjay008/TopCompayNStartupWebsites"><img src="https://visitor-badge.laobi.icu/badge?page_id=Kaustubh-Natuskar.companies-to-apply" alt="visitor count"/></a>
-	<a href="https://github.com/thesanjay008/TopCompayNStartupWebsites/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Kaustubh-Natuskar/companies-to-apply?color=2b9348"></a></p>
+<p><a href="https://twitter.com/intent/tweet?text="><img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social" alt="Tweet" ></a>
+<a href="https://github.com/thesanjay008/TopCompayNStartupWebsites"><img src="https://visitor-badge.laobi.icu/badge?page_id=Kaustubh-Natuskar.companies-to-apply" alt="visitor count"/></a>
+<a href="https://github.com/thesanjay008/TopCompayNStartupWebsites/stargazers"><img src="https://img.shields.io/github/stars/Kaustubh-Natuskar/companies-to-apply" alt="Stars Badge"/></a>
+<a href="https://github.com/thesanjay008/TopCompayNStartupWebsites/network/members"><img src="https://img.shields.io/github/forks/Kaustubh-Natuskar/companies-to-apply" alt="Forks Badge"/></a>
+<a href="https://github.com/thesanjay008/TopCompayNStartupWebsites/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Kaustubh-Natuskar/companies-to-apply?color=2b9348"></a></p>
 </div>
+
+
  
 <br>
+
+
 <div align="center">
    <table>
       <thead>
