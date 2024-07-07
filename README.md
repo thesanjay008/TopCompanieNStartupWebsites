@@ -69,6 +69,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
             <td align="left"><a href="#Y">Y</a></td>
             <td align="left"><a href="#Z">Z</a></td>
             <td align="left"></td>
+            <td align="left"></td>
          </tr>
       </tbody>
    </table>
