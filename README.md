@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-<div align="center"> <h1>Top Compay & Startup Websites</h1>  
+<div align="center"> <h1>Top Company & Startup Websites to Job Opportunities</h1>  
 This Repository contains the list of companies(more than FAANG) which you can join!  
     
 <p><br></p>  
@@ -585,8 +585,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://jobs.lever.co/protegrity?location=Bengaluru">Protegrity</a>  </li>
 <li><a href="https://www.proximity.tech/careers">Proximity Labs</a>  </li>
 <li><a href="https://www.prodapt.com/en/careers/">Prodapt</a></li>
-<li><a href="https://careers.publicissapient.com/">Publicis Sapient</a></li>
-<li><a href="https://pubmatic.com/careers/home/">PubMatic</a></li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -633,7 +631,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.salesforce.com/company/careers/">Salesforce</a>  </li>
 <li><a href="https://www.samsung.com/in/about-us/careers/">Samsung</a>  </li>
 <li><a href="https://jobs.sap.com/">SAP</a>  </li>
-<li><a href="https://www.se.com/in/en/about-us/careers/overview.jsp">Schneider Electric</a>   </li>
 <li><a href="https://jobs.sendinblue.com/en">SendinBlue</a></li>
 <li><a href="https://serpapi.com/team">SerpApi</a>  </li>
 <li><a href="https://www.servicenow.com/careers.html">ServiceNow</a>  </li>
@@ -644,21 +641,15 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://shipsy.io/career/">Shipsy</a></li>
 <li><a href="https://careers.shopee.sg/">Shopee</a></li>
 <li><a href="https://www.shopify.com/careers">Shopify</a></li>
-<li><a href="https://new.siemens.com/global/en/company/jobs/our-locations/india.html">Siemens</a></li>
-<li><a href="https://www.siemens-healthineers.com/en-in/careers">Siemens Healthineers</a></li>
 <li><a href="https://www.sigmoid.com/careers/">Sigmoid</a></li>
-<li><a href="https://www.linkedin.com/jobs/search/?f_C=75860188&geoId=92000000">SkillVertex</a></li>
 <li><a href="https://skyroot.in/join/">Skyroot Aerospace</a> </li>
-<li><a href="https://www.linkedin.com/jobs/sling-media-jobs/?originalSubdomain=in">Sling Media</a>    </li>
 <li><a href="https://www.smithsdetection.com/careers/">Smith Detection</a>  </li>
-<li><a href="https://www.sonyjobs.com/careers.html">Sony</a>  </li>
 <li><a href="https://spinny.freshteam.com/jobs">Spinny</a>  </li>
 <li><a href="https://www.sprinklr.com/careers/">Sprinklr</a></li>
 <li><a href="https://www.squadstack.com/careers/">Squadstack</a></li>
 <li><a href="https://stripe.com/in/jobs">Stripe</a>  </li>
 <li><a href="https://sureify.com/careers/">Sureify</a></li>
 <li><a href="https://careers.swiggy.com/">Swiggy</a>  </li>
-<li><a href="https://www.synopsys.com/careers.html">Synopsys</a></li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -673,12 +664,10 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://careers.te.com/">TE Connectivity</a></li>
 <li><a href="https://www.teksystems.com/en-in/careers">TEK Systems</a></li>
 <li><a href="https://tekion.com/careers">Tekion corp</a></li>
-<li><a href="https://careers.tencent.com/en-us/search.html?query=ot_40001001,ot_40001002,ot_40001003,ot_40001004,ot_40001005,ot_40001006">Tencent</a>  </li>
 <li><a href="https://www.tesla.com/careers">Tesla</a> </li>
 <li><a href="https://testingbot.com/careers">TestingBot</a></li>
 <li><a href="https://careers.teradata.com/">Teradata</a></li>
 <li><a href="https://careers.ti.com/">Texas Instruments</a> </li>
-<li><a href="https://www.tsmc.com/static/english/careers/index.htm">TSMC</a></li>
 <li><a href="https://www.thoughtspot.com/careers-listing">ThoughtSpot</a>  </li>
 <li><a href="https://www.thoughtworks.com/careers/jobs">ThoughtWorks</a> </li>
 <li><a href="https://www.topcoder.com/company/jobs/">Topcoder</a></li>
@@ -767,7 +756,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <h2 id="Z">Z</h2>  
 
 <ol>
-<li><a href="https://zeptonow.openings.co/#!/#openpositions">Zepto</a></li>
 <li><a href="https://careers.zerodha.com/">zerodha</a>  </li>
 <li><a href="https://careers.zeta.tech/work-with-us/">Zeta</a></li>
 <li><a href="https://careers.zivame.com/">ZivaMe</a>  </li>
