@@ -79,21 +79,16 @@ This Repository contains the list of companies(more than FAANG) which you can jo
    <table>
       <thead>
          <tr>
-            <th align="center">Total companies added</th>
+            <th align="center">Total Data</th>
          </tr>
       </thead>
       <tbody>
          <tr>
-            <td align="center">476</td>
+            <td align="center">300</td>
          </tr>
       </tbody>
    </table>
 </div>
-<!-- change the above count after adding companies. -->
-<p align="right">(<a href="#Bottom">Bottom</a>)</p>
-
-
-
 
 
  
