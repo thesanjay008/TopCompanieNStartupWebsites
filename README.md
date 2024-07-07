@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 <div align="center"> <h1>Top Company & Startup Websites to Job Opportunities</h1>  
-This Repository contains the list of companies(more than FAANG) which you can join!  
+This Repository contains the list of companies & Startup which you can join for your career in 2024!  
     
 <p><br></p>  
     
